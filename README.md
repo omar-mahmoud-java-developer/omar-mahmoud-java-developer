@@ -6,9 +6,9 @@
 <h3 font-size="20" align="center">I'm a passionate developer with a strong foundation in Java and web backend technologies.</h3>
 
 
-
-       <img style="display: block; margin-left: auto; margin-right: 100px;"  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
+<img style="display: block; margin-left: auto; margin-right: 10px;"  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
      alt="Coder GIF" width="700" height="500">
+
 
 
 

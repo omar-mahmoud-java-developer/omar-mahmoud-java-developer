@@ -2,17 +2,17 @@
 
 > Java Developer | Web Backend Specialist
 
-**About Me**
+![](/path/to/your/photo.jpg)  **About Me**
 
 I'm a passionate developer with a strong foundation in Java and web backend technologies. I enjoy crafting robust and efficient solutions that meet user needs. 
 
 **Skills**
 
-* **Languages:** Java (EE & SE), Python
-* **Frameworks & Libraries:** Spring, Spring Boot, Hibernate, JDBC
-* **Databases:** MySQL, SQL Server
-* **Web Technologies:** HTML, CSS, REST APIs
-* **Other:** Postman, Data Structures & Algorithms, Problem Solving, ISTQB Foundation Level
+* **Languages:** Java (EE & SE) [Icon Link Here](https://fontawesome.com/icons/java), Python [Icon Link Here](https://fontawesome.com/icons/python)
+* **Frameworks & Libraries:** Spring [Icon Link Here](https://fontawesome.com/v5/icons/categories/spring), Spring Boot [Icon Link Here](https://fontawesome.com/v5/icons/categories/spring), Hibernate [Icon Link Here](https://simpleicons.org/), JDBC [Icon Link Here](https://fontawesome.com/icons/database)
+* **Databases:** MySQL [Icon Link Here](https://forkaweso.me/Fork-Awesome/icon/mysql/), SQL Server [Icon Link Here](https://fontawesome.com/icons/server)
+* **Web Technologies:** HTML [Icon Link Here](https://fontawesome.com/v4/icon/html5), CSS [Icon Link Here](https://fontawesome.com/v4/icon/css3), REST APIs [Icon Link Here](https://docs.fontawesome.com/apis/)
+* **Other:** Postman [Icon Link Here](https://simpleicons.org/), Data Structures & Algorithms [Icon Link Here](https://simpleicons.org/), Problem Solving [Icon Link Here](https://fontawesome.com/icons/head-side-brain), ISTQB Foundation Level [Icon Link Here](https://fontawesome.com/v4/icon/certificate)
 
 **Connect with Me**
 
@@ -32,17 +32,6 @@ I'm a passionate developer with a strong foundation in Java and web backend tech
 **Learning Journey**
 
 * (Mention any ongoing learning initiatives or courses you're taking)
-
-**Icons**
-
-Here are some resources for cool developer-related icons you can add to your profile:
-
-* https://fontawesome.com/icons
-* https://simpleicons.org/
-
-**Photo**
-
-Feel free to add your professional headshot to personalize your profile further.
 
 **Remember:**
 

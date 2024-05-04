@@ -13,7 +13,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,git,css,discord,github,html,java,c++,mysql,postman,py,idea,selenium,vscode=14" />
+    <img src="https://skillicons.dev/icons?i=spring,git,css,discord,github,html,java,cpp,mysql,postman,py,idea,selenium,vscode=14" />
   </a>
 </p>
 

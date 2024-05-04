@@ -7,7 +7,7 @@
 
 <div style="text-align: center;">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
-       alt="Coder GIF" width="700" height="500"
+       alt="Coder GIF" width="600" height="400"
        style="margin-left: 20px;"
    style="margin-left: 20px;>  </div>
 

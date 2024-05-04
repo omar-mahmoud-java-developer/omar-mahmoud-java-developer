@@ -6,7 +6,7 @@
 <h3 font-size="20" align="center">I'm a passionate developer with a strong foundation in Java and web backend technologies.</h3>
 
 
-<img align="center" style="width:5rem; height:auto" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="700" height="500">
+<img align="auto" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="700" height="500">
 
 <div id="user-content-toc">
   <ul align="center"> 

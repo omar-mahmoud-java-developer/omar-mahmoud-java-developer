@@ -7,25 +7,19 @@
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"
-      alt="c++" width="25px" height="25px"/>
-  </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
-      alt="java" width="25px" height="25px"/> 
+
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
+      alt="java"/> 
   </a>
 
-  <a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-      alt="html5" width="25px" height="25px"/>
+      alt="html5"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3" width="25px" height="25px"/>
+      alt="css3"/>
   </a>
-  <a href="https://www.python.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"
-      alt="Python" width="25px" height="25px"/>
-  </a>
+
 </p>

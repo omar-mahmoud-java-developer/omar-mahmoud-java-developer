@@ -8,7 +8,7 @@
 
 <div tyle="margin-left: 50px; ">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
-       alt="Coder GIF" width="700" height="500">  </div>
+       alt="Coder GIF" width="800" height="500">  </div>
 
 
 

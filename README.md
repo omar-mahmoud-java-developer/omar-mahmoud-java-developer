@@ -26,7 +26,7 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="omaribnqenawy@gmail.com" target="blank"><img align="center" <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<a href="omaribnqenawy@gmail.com" target="blank"><img align="center" <svg  fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="256" height="256" rx="60" fill="#242938"/>
 <path d="M41.6364 203.028H73.4545V125.755L28 91.6646V189.392C28 196.937 34.1136 203.028 41.6364 203.028Z" fill="#4285F4"/>
 <path d="M182.545 203.028H214.364C221.909 203.028 228 196.915 228 189.392V91.6646L182.545 125.755" fill="#34A853"/>

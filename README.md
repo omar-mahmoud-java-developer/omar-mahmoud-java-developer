@@ -41,7 +41,7 @@
 <a href="https://twitter.com/Kishoo12_98" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 </p>
  <div>
-       <a href="mailto://ketanchowdhury@protonmail.com" target="blank"><img align="center">
+       <a href="mailto://omaribnqenawy@gmail.com" target="blank"><img align="center">
        <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="40" width="50">
        </div>
          

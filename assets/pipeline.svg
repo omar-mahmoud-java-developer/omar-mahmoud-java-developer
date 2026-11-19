@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" role="img" aria-label="Request flow: client, JWT and RBAC, async service, PostgreSQL, SSE stream back to client">
+  <rect width="900" height="210" rx="16" fill="#0d1117"/>
+  <g font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" fill="#e6edf3">
+    <g><rect x="30" y="70" width="130" height="64" rx="12" fill="#161b22" stroke="#30363d"/><text x="95" y="98">Client</text><text x="95" y="118" fill="#8b949e" font-size="12">chat · voice · API</text></g>
+    <g><rect x="205" y="70" width="140" height="64" rx="12" fill="#161b22" stroke="#58a6ff"/><text x="275" y="98">Spring Security</text><text x="275" y="118" fill="#8b949e" font-size="12">JWT · RBAC</text></g>
+    <g><rect x="390" y="70" width="140" height="64" rx="12" fill="#161b22" stroke="#a78bfa"/><text x="460" y="98">Async service</text><text x="460" y="118" fill="#8b949e" font-size="12">no blocking threads</text></g>
+    <g><rect x="575" y="70" width="140" height="64" rx="12" fill="#161b22" stroke="#3fb950"/><text x="645" y="98">PostgreSQL</text><text x="645" y="118" fill="#8b949e" font-size="12">indexed · 3NF</text></g>
+    <g><rect x="760" y="70" width="110" height="64" rx="12" fill="#161b22" stroke="#f472b6"/><text x="815" y="98">SSE stream</text><text x="815" y="118" fill="#8b949e" font-size="12">tokens as ready</text></g>
+  </g>
+  <g stroke="#30363d" stroke-width="2" fill="none">
+    <path d="M160 102H205M345 102H390M530 102H575M715 102H760"/>
+  </g>
+  <path id="route" d="M95 102H815" fill="none"/>
+  <circle r="6" fill="#58a6ff"><animateMotion dur="4s" repeatCount="indefinite" path="M95 102H815"/></circle>
+  <circle r="6" fill="#a78bfa"><animateMotion dur="4s" begin="1.3s" repeatCount="indefinite" path="M95 102H815"/></circle>
+  <circle r="6" fill="#f472b6"><animateMotion dur="4s" begin="2.6s" repeatCount="indefinite" path="M95 102H815"/></circle>
+  <text x="450" y="40" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#c9d1d9">How a request travels through the systems I build</text>
+  <text x="450" y="180" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="13" fill="#8b949e">Every endpoint authenticated · latency cut 20% by going async · 80%+ test coverage</text>
+</svg>

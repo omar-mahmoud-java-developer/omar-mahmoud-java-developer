@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-label="Live GitHub pulse">
+<rect width="900" height="250" rx="16" fill="#0d1117"/>
+<g font-family="Segoe UI,Helvetica,Arial,sans-serif">
+<text x="30" y="38" font-size="16" font-weight="600" fill="#c9d1d9">Live pulse</text>
+<text x="870" y="38" font-size="12" fill="#8b949e" text-anchor="end">auto-updated 2026-11-19 by GitHub Actions</text>
+<rect x="30.0" y="56" width="273.6" height="12" fill="#58a6ff"><animate attributeName="opacity" values="0;1" dur="0.4s" fill="freeze"/></rect>
+<rect x="303.6" y="56" width="199.4" height="12" fill="#a78bfa"><animate attributeName="opacity" values="0;1" dur="0.6s" fill="freeze"/></rect>
+<rect x="503.0" y="56" width="160.3" height="12" fill="#f472b6"><animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/></rect>
+<rect x="663.3" y="56" width="92.9" height="12" fill="#3fb950"><animate attributeName="opacity" values="0;1" dur="1.0s" fill="freeze"/></rect>
+<rect x="756.2" y="56" width="57.0" height="12" fill="#f0883e"><animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/></rect>
+<rect x="813.2" y="56" width="56.8" height="12" fill="#8b949e"><animate attributeName="opacity" values="0;1" dur="1.4s" fill="freeze"/></rect>
+<circle cx="35" cy="90" r="5" fill="#58a6ff"/><text x="46" y="94" font-size="13" fill="#c9d1d9">Python 33%</text>
+<circle cx="325" cy="90" r="5" fill="#a78bfa"/><text x="336" y="94" font-size="13" fill="#c9d1d9">Java 24%</text>
+<circle cx="615" cy="90" r="5" fill="#f472b6"/><text x="626" y="94" font-size="13" fill="#c9d1d9">HTML 19%</text>
+<circle cx="35" cy="112" r="5" fill="#3fb950"/><text x="46" y="116" font-size="13" fill="#c9d1d9">CSS 11%</text>
+<circle cx="325" cy="112" r="5" fill="#f0883e"/><text x="336" y="116" font-size="13" fill="#c9d1d9">TypeScript 7%</text>
+<circle cx="615" cy="112" r="5" fill="#8b949e"/><text x="626" y="116" font-size="13" fill="#c9d1d9">Other 7%</text>
+<text x="30" y="160" font-size="13" fill="#8b949e">Latest pushes</text>
+<text x="30" y="184" font-size="14" fill="#58a6ff">forsa</text><text x="870" y="184" font-size="13" fill="#8b949e" text-anchor="end">2026-11-19</text>
+<text x="30" y="206" font-size="14" fill="#58a6ff">new-project</text><text x="870" y="206" font-size="13" fill="#8b949e" text-anchor="end">2026-07-12</text>
+<text x="30" y="228" font-size="14" fill="#58a6ff">Smart-Grocery-List-Price-Lookup-Fawry-Associat</text><text x="870" y="228" font-size="13" fill="#8b949e" text-anchor="end">2026-04-03</text>
+</g></svg>
